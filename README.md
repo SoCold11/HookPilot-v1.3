@@ -144,7 +144,7 @@ Output:
 
 ## Live Demo
 
-Try HookPilot here:
+Try HookPilot v1.3 here:
 https://hook-pilot--dcloyd11.replit.app
 
 No login required. Enter campaign details to generate creative recommendations.

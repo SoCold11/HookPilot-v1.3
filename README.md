@@ -1,6 +1,6 @@
 # HookPilot
 
-AI-powered ad creative ideation tool built for performance marketers.
+Ad creative ideation tool built for performance marketers.
 
 HookPilot generates high-performing ad hooks using structured prompt logic, proven marketing frameworks, and real-world campaign insights.
 

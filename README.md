@@ -178,7 +178,7 @@ Future Enhancements:
 
 Built by Dorian C.
 
-USC Marshall MBA and Product & Growth Strategist with a background in performance marketing and ad technology.
+USC Marshall MBA and Product & Growth Strategist with a background in performance marketing and ad technology, currently pursuing a Master’s in Computer Science at Penn Engineering with a focus in Artificial Intelligence.
 
 Experience includes:
 - Leading $40M+ in programmatic media investment across full-funnel campaigns
